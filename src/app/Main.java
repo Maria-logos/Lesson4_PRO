@@ -2,7 +2,6 @@ package app;
 
 import java.util.Scanner;
 
-// Виправте цей клас
 public class Main {
 
     public static void main(String[] args) {

@@ -2,11 +2,9 @@ package app;
 
 public class Customer {
 
-    // Виправте декларацію змінних класу
     private String name;
     private String phone;
 
-    // Виправте визначення конструктора
     public Customer(String name, String phone) {
         this.name = name;
         this.phone = phone;
@@ -27,7 +25,5 @@ public class Customer {
     public void setPhone(String phone) {
         this.phone = phone;
     }
-
-    // Пропишіть нижче getters для всіх змінних класу
 
 }
